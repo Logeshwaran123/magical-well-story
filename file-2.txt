@@ -1,1 +1,2 @@
 Hello World
+I am updating the File 2 with Notepad.
